@@ -7,6 +7,11 @@
 [Hacker earth points.pdf](https://github.com/Aindriladatt/M1_ProjectGoal_Application/files/8010611/Hacker.earth.points.pdf)
 
 
+[Intro to Github.pdf](https://github.com/Aindriladatt/M1_ProjectGoal_Application/files/8010646/Intro.to.Github.pdf)
+
+
+
+
 
 
 
