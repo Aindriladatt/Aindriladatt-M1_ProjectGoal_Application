@@ -40,5 +40,4 @@ OPPORTUANITIES:
 THREATS:
 
 1.Risk of hackers.
-
 2. Extra website charges
