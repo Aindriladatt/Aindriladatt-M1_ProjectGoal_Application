@@ -1,5 +1,6 @@
 # Description
 Application name: Book My Seat
+
 This application is used for quick reservation of bus seats in advance.Customers can book tickets over the internet 24 hours a day.In addition, this application also helps in checking the availability of the bus ticket before buying them.
 
 ## High Level Requirements
@@ -24,4 +25,14 @@ STRENGTHS:
 1. User-friendly application, can be installed in mobiles too.
 2. Saves your valuable time because when you think about the workflow of the customer service staff, lot of time gets wasted on picking up a date,managing schedules and finally booking a ticket.
 3. Easy & fast payment options
-4. 
+
+WEAKNESSES:
+
+1. Internet access required at the time of reservation, therefore it is difficult for people staying in remote areas.Unfortuanate network loss while paying online can also leave you in confusion whether you paid or not
+2. Software glitches can make the user buy the same ticket twice.
+3. Sometimes user can face problems in finding out the ticket after booking online.
+
+OPPORTUANITIES:
+
+1. 
+5. 
