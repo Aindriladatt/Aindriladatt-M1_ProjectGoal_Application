@@ -23,7 +23,7 @@ This application is used for quick reservation of bus seats in advance.Customers
 STRENGTHS:
 
 1. User-friendly application, can be installed in mobiles too.
-2. Saves your valuable time because when you think about the workflow of the customer service staff, lot of time gets wasted on picking up a date,managing schedules and finally booking a ticket.
+2. Saves your valuable time because when you think about the workflow of the customer service staff, lot of time gets wasted on picking up a date,managing schedules and finally booking a ticket.Therefore, able to book tickets in a few clicks.
 3. Easy & fast payment options
 
 WEAKNESSES:
@@ -34,5 +34,10 @@ WEAKNESSES:
 
 OPPORTUANITIES:
 
-1. 
-5. 
+1. Cancelling the tickets easily
+2. Manage reservations & seats effectively
+
+THREATS:
+
+1.Risk of hackers
+2. Extra website charges
