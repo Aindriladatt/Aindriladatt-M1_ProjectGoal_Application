@@ -5,6 +5,7 @@
 
 #BEHAVIOURAL DIAGRAM:
 
-![image](https://user-images.githubusercontent.com/85006836/153550105-3ee51aba-61e4-43d2-9160-a4e12f13ba13.png)
+![image](https://user-images.githubusercontent.com/85006836/153550371-6b33a16c-ec12-472f-9130-2e4f3fe5109d.png)
+
 
 
