@@ -3,7 +3,7 @@ Application name: Book My Seat
 
 This application is used for quick reservation of bus seats in advance.Customers can book tickets over the internet 24 hours a day.In addition, this application also helps in checking the availability of the bus ticket before buying them.
 
-## High Level Requirements
+## Low Level Requirements
 1. User can login to the application.
 2. Users can view the bus list.
 3. Reserve seats in advance.
@@ -11,7 +11,7 @@ This application is used for quick reservation of bus seats in advance.Customers
 5. Cancel reservation and get refund instantly.
 6. Exit the application.
 
-### Low Level Requirements
+### High Level Requirements
 1. Login: This feature allows the passenger/user to login to this application with their first name as "username" & DOB as "password".
 2. Bus information: With this feature,following information can be viewed: bus number, start location & destination, fare, & timings.
 3. Reservation: This feature is very simple.The user after viewing the bus information can reserve their bus seats  accordingly,      depending on the availability of the seats.
