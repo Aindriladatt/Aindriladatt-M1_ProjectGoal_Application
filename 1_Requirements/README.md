@@ -41,3 +41,15 @@ THREATS:
 
 1.Risk of hackers.
 2. Extra website charges
+
+
+##### 5 Ws & 1H
+
+
+WHAT- This is a project that will allow people to book tickets online without following the traditional method of booking tickets by avoiding unnecessary crowds in the street.
+WHY- This a very time saving process of booking tickets 
+WHO- Travelling by bus is very common in countries like India, therefore this application can be used by daily passengers all over the country 
+WHOM- Students ,people working in corporate ,business, product based etc can be benefited
+WHEN- This is a very user-frienndly and reliable applucation that can be accessed via internet anytime, anywhere 
+
+HOW- Using this application, people can book tickets in advance without having to wait in queue for checking the availability of tickets.
