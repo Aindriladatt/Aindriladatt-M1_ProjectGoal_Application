@@ -2,6 +2,6 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e698726beff9408485f9671d673bba1a)](https://www.codacy.com/gh/Aindriladatt/M1_BookMySeat_Application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Aindriladatt/M1_BookMySeat_Application&amp;utm_campaign=Badge_Grade)
 
-https://api.codiga.io/project/31541/score/svg
+
 
 
